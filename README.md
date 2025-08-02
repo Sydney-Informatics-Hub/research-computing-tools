@@ -1,4 +1,4 @@
-# research-computing-tools
+# Research computing @ SIH
 
 Resources available here are focused on supporting efficient use of high performance computing (HPC) and cloud infrastructure by University of Sydney researchers. 
 
